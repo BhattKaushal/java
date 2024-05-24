@@ -5,5 +5,6 @@ public class DialogBox {
         ab = JOptionPane.showInputDialog("Levo Maro ?");
         JOptionPane.showMessageDialog(null, ab+" ?" + " Kem thyu");
         System.exit(0);
+        //yo
     }
 }
